@@ -40,9 +40,10 @@ The result is a stack of patches containing the closest matching patches for eac
 BM3D is a recent denoising method based on the fact that an image has a locally sparse representation in the transform domain. This sparsity is enhanced by grouping similar 2D image patches into 3D groups. In this paper, we propose an open-source implementation of the method. We discuss the choice of all parameter methods and confirm their actual optimality. The description of the method is rewritten with a new notation. We hope this new notation is more transparent than in the original paper. A final index gives nonetheless the correspondence between the new notation and the original notation.
 
 ## Reference Papers
-1. [Video denoising by sparse 3D transform-domain collaborative filtering](https://www.researchgate.net/publication/242187593_Video_denoising_by_sparse_3D_transform-domain_collaborative_filtering)
-2. [An Analysis and Implementation of the BM3D Image Denoising Method](https://www.researchgate.net/publication/289990721_An_Analysis_and_Implementation_of_the_BM3D_Image_Denoising_Method)
-3. [Adaptive BM3D Algorithm for Image Denoising Using Coefficient of Variation](https://www.semanticscholar.org/paper/Adaptive-BM3D-Algorithm-for-Image-Denoising-Using-Song-Duan/83f081604196971ca3b0841a18953ec1aefaa3e8?utm_source=direct_link)
+1. [The BM3D Algorithm paper used](https://www.cs.tut.fi/~foi/GCF-BM3D/BM3D_TIP_2007.pdf)
+2. [Video denoising by sparse 3D transform-domain collaborative filtering](https://www.researchgate.net/publication/242187593_Video_denoising_by_sparse_3D_transform-domain_collaborative_filtering)
+3. [An Analysis and Implementation of the BM3D Image Denoising Method](https://www.researchgate.net/publication/289990721_An_Analysis_and_Implementation_of_the_BM3D_Image_Denoising_Method)
+4. [Adaptive BM3D Algorithm for Image Denoising Using Coefficient of Variation](https://www.semanticscholar.org/paper/Adaptive-BM3D-Algorithm-for-Image-Denoising-Using-Song-Duan/83f081604196971ca3b0841a18953ec1aefaa3e8?utm_source=direct_link)
 
 ## Installation and Usage
 
